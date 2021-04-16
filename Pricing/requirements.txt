@@ -16,7 +16,7 @@ Django==2.1.12
 django-allauth==0.39.1
 django-bootstrap4==0.0.8
 django-chartjs==1.5.0
-django-debug-toolbar==2.0
+django-debug-toolbar==2.2.1
 django-excel==0.0.10
 django-pyodbc-azure==2.1.0.0
 django-tables2==2.1.0
