@@ -41,7 +41,7 @@ oauthlib==3.1.0
 openpyxl==2.5.14
 passlib==1.7.2
 pbr==5.4.2
-Pillow==6.1.0
+Pillow==9.0.1
 protobuf==3.9.1
 pycodestyle==2.5.0
 pycparser==2.19
